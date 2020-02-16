@@ -17,3 +17,8 @@ _the tages is used to create content of the web page and then goes through styli
 + it contains how our page will looks like
 +  also it contains the overview of how the page will be 
 + to get the target audiances satisfied of what we wanna do
+
+## java script 
+**what is the script and how do i create one ?**
+_A script is a series of instructions that a computer can follow to achieve a goal. and we've created using variables and functions_ 
+
