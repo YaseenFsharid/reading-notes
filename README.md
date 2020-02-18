@@ -3,7 +3,7 @@
 classes | links
 ------------ | -------------
 class01.md | [class01]()
-class02.md | [class02]()
+class02.md | [class02](https://github.com/YaseenFsharid/reading-notes/blob/master/class02.md)
 class03.md | [class03](https://yaseenfsharid.github.io/reading-notes/class03)
 class04.md | [class04]()
 class05.md | [class05]()
