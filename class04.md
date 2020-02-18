@@ -49,7 +49,7 @@ columns.
 there is defferant types for creating functions
 1. _functions inside variable created function will asigned to values_
 2. _seprated function created function can used here by direct calling it name_
-   +function call is like that name( ); function name and circle braketes
+   + function call is like that name( ); function name and circle braketes
 
 #### Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator,[1] reviews each line of code as it is typed in. The two programmers switch roles frequently.
 **some resones to make pair programming**
@@ -61,3 +61,4 @@ there is defferant types for creating functions
  1. the programmers bring different prior experiences to the task;
  2. they may assess information relevant to the task in different ways;
  3. they stand in different relationships to the problem by virtue of their functional roles.
+ 
