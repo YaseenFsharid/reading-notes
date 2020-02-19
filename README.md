@@ -5,7 +5,7 @@ classes | links
 class01.md | [class01](https://yaseenfsharid.github.io/reading-notes/class01)
 class02.md | [class02](https://yaseenfsharid.github.io/reading-notes/class02)
 class03.md | [class03](https://yaseenfsharid.github.io/reading-notes/class03)
-class04.md | [class04]()
+class04.md | [class04](https://yaseenfsharid.github.io/reading-notes/class04)
 class05.md | [class05]()
 class06.md | [class06]()
 class07.md | [class07]()
